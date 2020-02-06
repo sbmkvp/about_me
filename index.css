@@ -1,0 +1,8 @@
+/* Set up the background */
+html, body {
+  height     : 100%;
+  width      : 100%;
+  background : black;
+  padding    : 0px;
+  margin     : 0px;
+}
